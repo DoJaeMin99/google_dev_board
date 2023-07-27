@@ -1,0 +1,26 @@
+<annotation>
+	<folder>HOTSPOT</folder>
+	<filename>hotspot_100.jpg</filename>
+	<path>D:\도재민\HOTSPOT\hotspot_100.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hotspot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>569</ymin>
+			<xmax>361</xmax>
+			<ymax>617</ymax>
+		</bndbox>
+	</object>
+</annotation>
